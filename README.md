@@ -1,4 +1,4 @@
-# aplikasi_wisata_bandung
+# Aplikasi Wisata Kota Bandung
 
 ![Aplikasi Wisata Bandung](preview.gif)
 
