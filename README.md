@@ -1,6 +1,6 @@
 # aplikasi_wisata_bandung
 
-A new Flutter project.
+![Aplikasi Wisata Bandung](preview.gif)
 
 ## Getting Started
 
